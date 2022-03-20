@@ -18,7 +18,9 @@
       <ButtonT label="0" double @onCalcButtonClick="addDigit" />
       <ButtonT label="." @onCalcButtonClick="addDigit"/>
       <ButtonT label="=" operation @onCalcButtonClick="setOperation" />
+
   </div>
+  
 </template>
 
 <script>
@@ -36,6 +38,7 @@ export default {
         }
     },
     components: { ButtonT, DisplayT },
+
     methods: {
         clearMemory(){
             Object.assign(this.$data, this.$options.data())
@@ -88,7 +91,9 @@ export default {
             }
         }
     }
+
 }
+
 </script>
 
 <style>

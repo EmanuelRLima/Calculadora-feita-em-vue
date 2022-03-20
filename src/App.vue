@@ -3,7 +3,6 @@
   
   <h1> Calculator </h1>
   <CalculatorT />
-  
 </div>
 
 </template>
