@@ -1,24 +1,9 @@
-# calculator
+# Hello guys, tudo bem ?
 
-## Project setup
-```
-npm install
-```
+Ainda voltando a utilizar Vue, acabei encontrando um segundo projeto de quando estava aprendendo VUE.Js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+É uma simples calculadora já utlizando o sitema de components do VUE.js junto com sua CLI, caso eu encontre projetos sempre estarei colocando aqui, fiquem atentos!! kk.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+<img align="center" alt="Figma" height="350" width="300" src="https://github.com/EmanuelRLima/Calculadora-feita-em-vue/blob/master/public/gitimg.png">
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+link para acesso e teste: <a href="https://emanuelrlima-ea15b.web.app">https://emanuelrlima-ea15b.web.app</a>
